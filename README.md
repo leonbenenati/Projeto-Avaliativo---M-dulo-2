@@ -157,7 +157,6 @@ Principais códigos HTTP:
 - `422 Unprocessable Entity`: dados inválidos.
 - `500 Internal Server Error`: erro interno ou modelo indisponível.
 
-## 9. Evidências
+## 9. Link da API
 
-- **Repositório GitHub:** [Inserir link do repositório.]
-- **Vídeo de demonstração:** [Inserir link do Google Drive.]
+ [https://projeto-avaliativo-m-dulo-2.onrender.com/docs#/default/predict_predict_post]
