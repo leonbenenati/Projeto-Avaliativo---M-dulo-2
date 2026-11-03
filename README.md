@@ -34,15 +34,12 @@ As versões das bibliotecas estão especificadas no arquivo `requirements.txt`.
 
 ```text
 .
-├── main.py
-├── routers.py
+├── Projeto_Avaliativo_Módulo_2.ipynb
 ├── schemas.py
 ├── services.py
-├── modelo_falhas.joblib
-├── manutencao_preditiva.csv
-├── requirements.txt
-├── README.md
-└── Projeto_Avaliativo_Módulo_2.ipynb
+├── routers.py
+├── main.py
+
 ```
 
 ## 5. Desenvolvimento do modelo
