@@ -14,9 +14,8 @@ O modelo foi desenvolvido a partir da base de dados de manutenção preditiva ut
 - **Modelo:** LightGBM
 - **Artefato serializado:** modelo_falhas.joblib
 
-A base de dados contém informações sobre as condições operacionais das máquinas e a ocorrência de falhas.
+A base de dados contém informações sobre as condições operacionais das máquinas e a ocorrência de falhas. Está disponível aqui no github
 
-**Origem da base:** [Inserir o link da fonte original dos dados.]
 
 ## 3. Tecnologias utilizadas
 
